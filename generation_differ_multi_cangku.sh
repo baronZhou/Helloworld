@@ -16,18 +16,11 @@ echo "cangku: "$cangku
 echo "commitold: "$commitold
 echo "commitnew: "$commitnew
 
-echo "11111111111"
-echo "xx:"$SORCE_DR
-echo "xx:"$cangku
-echo "22222222222222222"
 cd $SORCE_DR
-echo "11111111111aaaaaaaaa"
 cd $cangku
-echo "333333333333333"
 touch 1temp.txt
 cd $SORCE_DR
-ls $cangku/1temp.txt
-ls $NEW
+
 cp --parent $cangku/1temp.txt $NEW
 cp --parent $cangku/1temp.txt $OLD
 rm $cangku/1temp.txt

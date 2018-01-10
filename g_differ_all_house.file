@@ -1,4 +1,8 @@
-31b3066:40c9159:sboot:xxx
-f1a6011:edcfdde:soter:x
-6ce943a:732e92d:uTAgent:xx
-b6159c1:7fe8b0c:uTREE:xxxxx
+2ec44e1:0f502aa:kernel-3.18:end
+2ec44e2:0f502ab:device/mediatek:end
+2ec44e3:0f502ac:vendor/mediatek/proprietary/bootable/bootloader/preloader:end
+2ec44e4:0f502ad:vendor/mediatek/proprietary/bootable/bootloader/lk:end
+2ec44e5:0f502ae:vendor/mediatek/proprietary/trustzone/atf:end
+2ec44e6:0f502af:vendor/mediatek/proprietary/trustzone/custom:end
+2ec44e7:0f502ag:vendor/mediatek/proprietary/trustzone/microtrust/source:end
+2ec44e8:0f502ah:frameworks/base:end

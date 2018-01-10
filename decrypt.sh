@@ -2,7 +2,7 @@
 
 #####################
 #### SOURCE_DIR改成要解密的文件路径
-###  FILE_OUT_DIR 输出文件路径
+####  FILE_OUT_DIR 输出文件路径
 SOURCE_DIR=/home/zhouhehe/gerrit/workshop/src/reallytek_F311/android_N/kernel-3.18/drivers/misc/mediatek/teei
 FILE_OUT_DIR=/home/zhouhehe/gerrit/workshop/src/reallytek_F311/teei
 
