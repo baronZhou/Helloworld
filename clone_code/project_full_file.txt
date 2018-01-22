@@ -1,0 +1,19 @@
+
+# title¡¾mtk6797_evb¡¿
+mtk6797_evb##sboot##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/sboot##base.stable.2.5.1_6797_mtk_evb##end
+mtk6797_evb##soter##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/soter##base.stable.2.5.1_6797_mtk_evb_androidO##end
+mtk6797_evb##androidO##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/mtk/mt6797_android_O_v1##base.stable.2.5.1_6797_mtk_evb##end
+mtk6797_evb##androidM##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/mt6797_android_m##base.stable.2.5.1_6797_mtk_evb##end
+
+# title¡¾sprd9860¡¿
+sprd9860##android_yiqing##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/spreadtrum/9860_3/yiqing/android##sprd9860_3_yiqing##end
+sprd9860##android_dxsec##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/spreadtrum/whale2/android3##sprd9860_evb_trunk##end
+sprd9860##sboot##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/sboot##uTL4_sprd##end
+sprd9860##ut_kernel##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/uTL4_kernel##uTL4_sprd##end
+sprd9860##soter##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/soter##sprd9860_evb_pandapay##end
+sprd9860##uTree##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/uTREE##sprd9860_evb##end
+sprd9860##ut_sdk##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/ut_sdk/ut_sdk##sp9860_64bit_2.6.0##end
+sprd9860##uTAgent##git@gitlab.microtrust.com.cn:productionline/ut_agent##BS.2.2.1-so##end
+sprd9860##rPAgent##git@gitlab.microtrust.com.cn:productionline/ut_rp-agent##BS.2.2.1-so##end
+sprd9860##ut_ca##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/ut_sdk/test_ca##NULL##end
+sprd9860##ut_ta##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/ut_sdk/test_ta##NULL##end
