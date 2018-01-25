@@ -1,0 +1,83 @@
+###################################################
+Start to sign fpserver.....
+git pull .....
+Already up-to-date.
+every_name:ppsnxvjihkyrabuhvwwwww1
+zhouhehe test:00::
+b6d7cdacad150c77cace7ae308e9b289
+b6d7cdacad150c77cace7ae308e9b289 b6d7cdacad150c77cace7ae308e9b289
+fp_server has not changed
+every_name:ppsnxvjihkyrabuhvvfj
+zhouhehe test:00::
+94b6c5d7e0d98a5f1da94b170ef7b661
+94b6c5d7e0d98a5f1da94b170ef7b661 94b6c5d7e0d98a5f1da94b170ef7b661
+fp_server has not changed
+sign fpserver succesfull
+###################################################
+Start to sign fpserver.....
+git pull .....
+Updating 6d79c9c..7d6e10e
+Fast-forward
+ ppsnxvjihkyrabuhvvfj/fp_server | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+every_name:ppsnxvjihkyrabuhvwwwww1
+zhouhehe test:00::
+b6d7cdacad150c77cace7ae308e9b289
+b6d7cdacad150c77cace7ae308e9b289 b6d7cdacad150c77cace7ae308e9b289
+fp_server has not changed
+every_name:ppsnxvjihkyrabuhvvfj
+zhouhehe test:00::
+94b6c5d7e0d98a5f1da94b170ef7b661
+94b6c5d7e0d98a5f1da94b170ef7b661 35b8fcf38d977345f7c671c808a7658d
+fp_server has changed
+zhouhehe test:::
+35b8fcf38d977345f7c671c808a7658d
+fp_server is exsist...
+sign signfp_server succesfull
+fpserverinfomd5:35b8fcf38d977345f7c671c808a7658d  ,  signfpserverinfomd5:ef9cbb011d132662a715198e35ba4f08
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   ppsnxvjihkyrabuhvvfj/md5_fpserver.txt
+	modified:   ppsnxvjihkyrabuhvvfj/md5info.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master df36fff] upload signfpserver test_hehehe
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+spawn git push
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+In Git 2.0, Git will default to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': signfpserver
+Password for 'https://signfpserver@github.com': 
+Counting objects: 9, done.
+Delta compression using up to 4 threads.
+Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
+Writing objects:  20% (1/5)   Writing objects:  40% (2/5)   Writing objects:  60% (3/5)   Writing objects:  80% (4/5)   Writing objects: 100% (5/5)   Writing objects: 100% (5/5), 535 bytes | 0 bytes/s, done.
+Total 5 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/signfpserver/signfpserver.git
+   7d6e10e..df36fff  master -> master
+sign fpserver succesfull
