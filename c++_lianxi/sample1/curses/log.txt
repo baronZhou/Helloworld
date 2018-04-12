@@ -1,0 +1,87 @@
+[Curses:] enter close_window
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********************
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window
+[Test:]********* main start ***********
+[Curses:] enter init_window
+[Curses:] enter close_window

@@ -1,6 +1,4 @@
 
 # title¡¾mtk6797_evb¡¿
-mtk6797_evb##sboot##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/sboot##base.stable.2.5.1_6797_mtk_evb##end
 mtk6797_evb##soter##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/soter##base.stable.2.5.1_6797_mtk_evb_androidO##end
 mtk6797_evb##androidO##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/mtk/mt6797_android_O_v1##base.stable.2.5.1_6797_mtk_evb##end
-mtk6797_evb##androidM##ssh://zhouhehe@gerrit.microtrust.com.cn:29418/mt6797_android_m##base.stable.2.5.1_6797_mtk_evb##end

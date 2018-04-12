@@ -1,6 +1,6 @@
 #! /bin/bash
 
-workshop=~/gerrit/workshop
+workshop=~/workspace/gerrit/workshop
 CURRENT_DIR=`pwd`
 
 
@@ -31,10 +31,10 @@ cd $path_name
 
 if [ "$branch" = "$null" ]
 then
-git clone $reposist
+proxychains git clone $reposist
 #echo "branch="$branch"    , "$module" branch==null"
 else
-git clone $reposist -b $branch
+proxychains git clone $reposist -b $branch
 fi
 
 echo "The "$platform":"$module "download completely." >>$LOG
